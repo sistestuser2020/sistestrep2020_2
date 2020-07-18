@@ -56,7 +56,7 @@ body {
 	width: 100%;
 	height: 482px;
 	position: relative;
-	background: url(https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432841/picture_pc_e9cd48501e8ad5f03a13bfefcf9e1f19.jpg) no-repeat;
+	background: url(/images/top.jpg) no-repeat;
 	background-size:cover;
 }
 h1 {
@@ -162,11 +162,11 @@ nav {
 	background-repeat: no-repeat;
 	background-size: cover;
 } #photo01 {
-	background-image: url(https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432843/picture_pc_0c274de1b76f4063c7ce088be3b57004.jpg);
+	background-image: url(/images/step1.jpg);
 } #photo02 {
-	background-image: url(https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432845/picture_pc_3d21e88b8ee49951e3c0931173a8f8ed.jpg);
+	background-image: url(/images/step2.jpg);
 } #photo03 {
-	background-image: url(https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/6432848/picture_pc_c61a50ca0b2335d65a46645b73a2a480.jpg);
+	background-image: url(/images/step3.jpg);
 }
 .right {
 	float: right;
