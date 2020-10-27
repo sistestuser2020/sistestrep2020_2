@@ -7,7 +7,7 @@ html,body,div,span,iframe,h1,h2,h3,h4,h5,p,a,img,ul,li,table,tr,th,td,tbody,foot
 	text-decoration: none;
 }
 body {
-	font-family: "ƒqƒ‰ƒMƒmŠpƒS Pro W3", "Hiragino Kaku Gothic Pro", "ƒƒCƒŠƒI", Meiryo, Osaka, "‚l‚r ‚oƒSƒVƒbƒN", "MS PGothic", sans-serif;
+	font-family: "ãƒ’ãƒ©ã‚®ãƒè§’ã‚´ Pro W3", "Hiragino Kaku Gothic Pro", "ãƒ¡ã‚¤ãƒªã‚ª", Meiryo, Osaka, "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", "MS PGothic", sans-serif;
 }
 body {
 	width: 100%;
@@ -167,7 +167,10 @@ nav {
 	background-image: url(../images/step2.jpg);
 } #photo03 {
 	background-image: url(../images/step3.jpg);
+} #photo04 {
+	background-image: url(../images/sample1.png);
 }
+
 .right {
 	float: right;
 	width: 50%;
